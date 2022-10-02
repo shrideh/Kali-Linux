@@ -7,9 +7,10 @@ sudo apt install bc # اعد تشغيل النظام
 sudo apt-get install build-essential 
 sudo apt-get install libelf-dev 
 
-!Try either of these commands to see which works:
+!Try either of these commands to see which works: استخدم واحد من هذه الاوامر تم استخدام الامر الاول
 sudo apt-get install linux-headers-`uname -r`
 sudo apt-get install linux-headers-5.10.0-kali6-amd64
+!==========================================================
 
 sudo apt install dkms
 sudo rmmod r8188eu.ko
