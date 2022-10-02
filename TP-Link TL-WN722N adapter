@@ -3,7 +3,7 @@
 ==========
 sudo apt update
 sudo apt upgrade
-sudo apt install bc
+sudo apt install bc # اعد تشغيل النظام
 sudo apt-get install build-essential 
 sudo apt-get install libelf-dev 
 
